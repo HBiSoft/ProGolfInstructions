@@ -61,7 +61,6 @@
                 </div>
                 <br>
                 <hr>
-                <br>
                 <div class="single-services">
                     <h4>Q</h4>
                     <p>"Why does videos take so long to export?"</p>
@@ -70,13 +69,23 @@
                 </div>
                 <br>
                 <hr>
-                <br>
                 <div class="single-services">
                     <h4>Q</h4>
                     <p>"Why is backward seeking 'choppy' when I analyze a video which was not imported?"</p>
                     <h4>A</h4>
                     <p>The short answer - that is how video works. The tecnical answer - A video is made out of groups of pictures (GOP), this GOP contains different frames (I, P and B frames), we are only interested in the I-frames. The I-frame contains the full frame and the P and B frames contain the info to construct the I-frame. When seeking backwards, we need to seek to the previous I-frame, then seek forward (get the info from the P and B frames) to the frame we are looking for. When seeking forward, this is not neccesary, thus the faster seeking.</p>
                     <p>When importing/saving a video, we increase the GOP which results to faster, more accurate seeking.</p>
+                </div>
+                <br>
+                <hr>
+                <div class="single-services">
+                    <h4>Q</h4>
+                    <p>"Why does my device not support video comparison?"</p>
+                    <h4>A</h4>
+                    <p>We use an API called MediaCodec to display videos. Most devices only support 2 instances of this API.
+                     Other applications also use this API, like your camera or other video players. Please make sure that you close this 
+                    applications before trying to compare a swing. If you still can't open a second video in the swing comparison screen 
+                    then your device only supports one instance of MediaCodec at a time.</p>
                 </div>
                 <br>
                 <hr>
