@@ -1,0 +1,452 @@
+﻿{
+  "players": [
+    {
+      "name": "Adam_Scott_DTL.mp4",
+      "display": "Adam Scott Iron (DTL)",
+      "video": "https://www.dropbox.com/s/ncj61ujisb5h7jw/Adam_Scott_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_DTL.png",
+      "new": "no",
+      "size": "26.5 MB"
+    },
+    {
+      "name": "Adam_Scott_FACE_ON.mp4",
+      "display": "Adam Scott Wedge (Face-On)",
+      "video": "https://www.dropbox.com/s/q0lcb2zu67dmr4c/Adam_Scott_Wedge_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_face_on.png",
+      "new": "no",
+      "size": "29.1 MB"
+    },
+    {
+      "name": "Brooks_Koepka_DTL.mp4",
+      "display": "Brooks Koepka (DTL)",
+      "video": "https://www.dropbox.com/s/ihamlootzeg0fb2/Brooks_Koepka_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Brooks_Koepka_DTL.png",
+      "new": "no",
+      "size": "30.7 MB"
+    },
+    {
+      "name": "Daniel_Berger_DTL.mp4",
+      "display": "Daniel Berger (DTL)",
+      "video": "https://www.dropbox.com/s/efb4nj2eikkqyq7/Daniel_Berger_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Daniel_Berger_DTL.png",
+      "new": "no",
+      "size": "40.8 MB"
+    },
+    {
+      "name": "Daniel_Berger_SideView.mp4",
+      "display": "Daniel Berger (Side View)",
+      "video": "https://www.dropbox.com/s/kv46jn39pwy1jbe/Daniel_Berger_Side_View.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Daniel_Berger_Side_View.png",
+      "new": "yes",
+      "size": "31.8 MB"
+    },
+    {
+      "name": "Dustin_Johnson_DTL.mp4",
+      "display": "Dustin Johnson (DTL)",
+      "video": "https://www.dropbox.com/s/fbomn81cce6rtck/Dustin_Johnson_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Dustin_Johnson_DTL.png",
+      "new": "no",
+      "size": "16.8 MB"
+    },
+    {
+      "name": "Dustin_Johnson_FACE_ON.mp4",
+      "display": "Dustin Johnson (Face-On)",
+      "video": "https://www.dropbox.com/s/6o0pn8dwfcx5i0j/Dustin_Johnson_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Dustin_Johnson_Face_On.png",
+      "new": "no",
+      "size": "37.2 MB"
+    },
+    {
+      "name": "Dustin_Johnson_Fairway_Wood_FACE_ON.mp4",
+      "display": "Dustin Johnson Fairway Wood (DTL)",
+      "video": "https://www.dropbox.com/s/8f05clysmqub5up/Dustin_Johnson_Fairway_Wood_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Dustin_Johnson_Fairwaywood_DTL.png",
+      "new": "no",
+      "size": "25.6 MB"
+    },
+    {
+      "name": "Ernie_Els_DTL.mp4",
+      "display": "Ernie Els (DTL)",
+      "video": "https://www.dropbox.com/s/2h2ejku8f84ydzl/Ernie_Els_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ernie_Els_DTL.png",
+      "new": "no",
+      "size": "43.4 MB"
+    },
+    {
+      "name": "Gary_Woodland_FACE_ON.mp4",
+      "display": "Gary Woodland (Face-On)",
+      "video": "https://www.dropbox.com/s/wa3ndgglb5pusyv/Gary_Woodland_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Gary_Woodland_Face_On.png",
+      "new": "no",
+      "size": "62.9 MB"
+    },
+    {
+      "name": "Geoff_Ogilvy_DTL.mp4",
+      "display": "Geoff Ogilvy (DTL)",
+      "video": "https://www.dropbox.com/s/cqeuqcmyxys8bgu/Geoff_Ogilvy_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Geoff_Ogilfy_DTL.png",
+      "new": "no",
+      "size": "39.8 MB"
+    },
+    {
+      "name": "Greame_Mcdowell_DTL.mp4",
+      "display": "Greame Mcdowell (DTL)",
+      "video": "https://www.dropbox.com/s/0jo784wwbqisg08/Greame_Mcdowell_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Greame_Mcdowell_DTL.png",
+      "new": "no",
+      "size": "15.5 MB"
+    },
+    {
+      "name": "Hendrik_Stenson_3Wood_DTL.mp4",
+      "display": "Hendrik Stenson 3Wood (DTL)",
+      "video": "https://www.dropbox.com/s/0vpri255mxv6ubd/Hendrik_Stenson_3wood_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Hendrik_Stenson_Fairwaywood_DTL.png",
+      "new": "no",
+      "size": "15.1 MB"
+    },
+    {
+      "name": "Hendrik_Stenson_Driver_DTL.mp4",
+      "display": "Hendrik Stenson Driver (DTL)",
+      "video": "https://www.dropbox.com/s/wsxt4kgwrza27fb/Hendrik_Stenson_Driver_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Hendrik_Stenson_DTL.png",
+      "new": "no",
+      "size": "17.4 MB"
+    },
+    {
+      "name": "Ian_Poulter_DTL_FACE_ON.mp4",
+      "display": "Ian Polter (DTL + Face-On)",
+      "video": "https://www.dropbox.com/s/eoe4v4kxq90otat/Ian_Poulter_DTL_Face-On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ian_Poulter_DTL_Face_on.png",
+      "new": "no",
+      "size": "34.5 MB"
+    },
+    {
+      "name": "Ian_Poulter_DTL.mp4",
+      "display": "Ian Polter (DTL)",
+      "video": "https://www.dropbox.com/s/x5ypsuihyj4aiph/Ian_Poulter_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ian_Poulter_DTL.png",
+      "new": "no",
+      "size": "14.2 MB"
+    },
+    {
+      "name": "Jason_Day_DTL.mp4",
+      "display": "Jason Day (DTL)",
+      "video": "https://www.dropbox.com/s/oll8nx0rge6wn3u/Jason_Day_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Jason_Day_DTL.png",
+      "new": "no",
+      "size": "37.4 MB"
+    },
+    {
+      "name": "Jason_Dufner_FACE_ON.mp4",
+      "display": "Jason Dufner (Face On)",
+      "video": "https://www.dropbox.com/s/sveeccctwtx4vy8/Jason_Dufner_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Jason_Dufner_Face_On.png",
+      "new": "yes",
+      "size": "34.4 MB"
+    },
+    {
+      "name": "Jessica_Korda_DTL.mp4",
+      "display": "Jessica Korda (DTL)",
+      "video": "https://www.dropbox.com/s/v0k5al6xvpm64pf/Jessica_Korda_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Jessica_Korda_DTL.png",
+      "new": "no",
+      "size": "87.4 MB"
+    },
+    {
+      "name": "Justin_Rose_DTL.mp4",
+      "display": "Justin Rose (DTL)",
+      "video": "https://www.dropbox.com/s/kufdgae06uq5y0k/Justin_Rose_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justin_Rose_DTL.png",
+      "new": "no",
+      "size": "29.7 MB"
+    },
+    {
+      "name": "Justin_Thomas_DTL.mp4",
+      "display": "Justin Thomas (DTL)",
+      "video": "https://www.dropbox.com/s/4dltks2xx7bjyz5/Justin_Thomas_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justing_Thomas_DTL.png",
+      "new": "no",
+      "size": "41.5 MB"
+    },
+    {
+      "name": "Justin_Thomas_FACE_ON.mp4",
+      "display": "Justin Thomas (Face-On)",
+      "video": "https://www.dropbox.com/s/lmt0mua2fsj1ift/Justin_Thomas_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justin_Thomas_Face_On.png",
+      "new": "no",
+      "size": "74.9 MB"
+    },
+    {
+      "name": "Keegan_Bradley_DTL.mp4",
+      "display": "Keegan Bradley (DTL)",
+      "video": "https://www.dropbox.com/s/dsyh8iqodlzmdwm/Keegan_Bradley_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Keegan_Bradley_DTL.png",
+      "new": "no",
+      "size": "14.1 MB"
+    },
+    {
+      "name": "Kevin_Na_DTL.mp4",
+      "display": "Kevin Na (DTL)",
+      "video": "https://www.dropbox.com/s/vgyyqhe35n6867w/Kevin_Na_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Kevin_Na_DTL.png",
+      "new": "no",
+      "size": "12.7 MB"
+    },
+    {
+      "name": "Lee_Westwood_DTL.mp4",
+      "display": "Lee Westwood (DTL)",
+      "video": "https://www.dropbox.com/s/7hm4s1n5heei560/Lee_Westwood_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lee_Westwood_DTL.png",
+      "new": "no",
+      "size": "20.2 MB"
+    },
+    {
+      "name": "Lexi_Thompson_DTL.mp4",
+      "display": "Lexi Thompson (DTL)",
+      "video": "https://www.dropbox.com/s/s0unk6zllo2lgcq/Lexi_Thompson_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lexi_Thompson_DTL.png",
+      "new": "no",
+      "size": "35.2 MB"
+    },
+    {
+      "name": "Lexi_Thompson_Hands.mp4",
+      "display": "Lexi Thompson (Hands At Impact)",
+      "video": "https://www.dropbox.com/s/03s0jkoqsterm6s/Lexi_Thompson_Hands_Through_Impact.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lexi_Thompson_HTI.png",
+      "new": "no",
+      "size": "129 MB"
+    },
+    {
+      "name": "Louis_Oosthuizen_DTL.mp4",
+      "display": "Louis Oosthuizen (DTL)",
+      "video": "https://www.dropbox.com/s/4srsghh9vtqemy5/Louis_Oosthuizen_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Louis_Oosthuizen_DTL.png",
+      "new": "no",
+      "size": "27 MB"
+    },
+    {
+      "name": "Luke_Donald_Driver_DTL.mp4",
+      "display": "Luke Donald Driver (DTL)",
+      "video": "https://www.dropbox.com/s/hp9xuz9qy1krzlf/Luke_Donald_Driver_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Luke_Donald_DTL.png",
+      "new": "no",
+      "size": "59.5 MB"
+    },
+    {
+      "name": "Luke_Donald_FACE_ON.mp4",
+      "display": "Luke Donald (Face-On)",
+      "video": "https://www.dropbox.com/s/myzn7aj5rhtaywp/Luke_Donald_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Luke_Donald_Face_On.png",
+      "new": "no",
+      "size": "57.4 MB"
+    },
+    {
+      "name": "Luke_Donald_Iron_DTL.mp4",
+      "display": "Luke Donald Iron (DTL)",
+      "video": "https://www.dropbox.com/s/gtw82hpzesipxvj/Luke_Donald_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Luke_Donald_Iron_DTL.png",
+      "new": "no",
+      "size": "50.3 MB"
+    },
+    {
+      "name": "Lydia_Ko_DTL.mp4",
+      "display": "Lydia Ko (DTL)",
+      "video": "https://www.dropbox.com/s/fj7iigpyux8wpul/Lydia_Ko_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lydia_Ko_DTL.png",
+      "new": "no",
+      "size": "18.7 MB"
+    },
+    {
+      "name": "Lydia_Ko_FACE_ON.mp4",
+      "display": "Lydia Ko (Face-On)",
+      "video": "https://www.dropbox.com/s/fjuxcxlyy1tl908/Lydia_Ko_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lydia_Ko_Face_On.png",
+      "new": "no",
+      "size": "46.7 MB"
+    },
+    {
+      "name": "Marc_Leishman_DTL.mp4",
+      "display": "Marc Leishman (DTL)",
+      "video": "https://www.dropbox.com/s/slr5dxet822kjn3/Marc_Leishman_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Marc_Leishman_DTL.png",
+      "new": "no",
+      "size": "15.4 MB"
+    },
+    {
+      "name": "Matt_Kuchar_DTL.mp4",
+      "display": "Matt Kuchar (DTL)",
+      "video": "https://www.dropbox.com/s/j2vbawixwin0iur/Matt_Kuchar_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Matt_Kuchar_DTL.png",
+      "new": "no",
+      "size": "35 MB"
+    },
+    {
+      "name": "Michelle_Wie_Driver_FACE_ON.mp4",
+      "display": "Michelle Wie (Face-On)",
+      "video": "https://www.dropbox.com/s/fnu2kaoz16l6ina/Michell_Wie_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Michelle_Wie_Face_On.png",
+      "new": "no",
+      "size": "43.9 MB"
+    },
+    {
+      "name": "Michelle_Wie_Driver_DTL.mp4",
+      "display": "Michelle Wie Driver (DTL)",
+      "video": "https://www.dropbox.com/s/6gd229h9p8ekap9/Michelle_Wie_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Michelle_Wie_Driver_DTL.png",
+      "new": "no",
+      "size": "24.3 MB"
+    },
+    {
+      "name": "Michelle_Wie_Iron_DTL.mp4",
+      "display": "Michelle Wie Iron (DTL)",
+      "video": "https://www.dropbox.com/s/uhf0a7wm4zk34v8/Michelle_Wie_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Michelle_Wie_Iron_DTL.png",
+      "new": "no",
+      "size": "27 MB"
+    },
+    {
+      "name": "Paul_Casey_DTL.mp4",
+      "display": "Paul Casey (DTL)",
+      "video": "https://www.dropbox.com/s/nadf66ff5iicm6f/Paul_Casey_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Paul_Casey_DTL.png",
+      "new": "no",
+      "size": "26.3 MB"
+    },
+    {
+      "name": "Phil_Mickelson_FACE_ON.mp4",
+      "display": "Phil Mickelson (Face-On)",
+      "video": "https://www.dropbox.com/s/sxu99pkproyk7rz/Phil_Mickelson_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Phil_Mickelson_Face_On.png",
+      "new": "no",
+      "size": "15.9 MB"
+    },
+    {
+      "name": "Phil_Mickelson_Wedge_DTL.mp4",
+      "display": "Phil Mickelson Wedge (DTL)",
+      "video": "https://www.dropbox.com/s/bscn1m284uawckq/Phil_Mickelson_Wedge.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Phil_Mickelson_Wedge_DTL.png",
+      "new": "no",
+      "size": "43.2 MB"
+    },
+    {
+      "name": "Rickie_Fowler_DTL.mp4",
+      "display": "Rickie Fowler (DTL)",
+      "video": "https://www.dropbox.com/s/oyzubf7gk6nzik3/Rickie_Fowler_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rickie_Fowler_DTL.png",
+      "new": "no",
+      "size": "27.3 MB"
+    },
+    {
+      "name": "Rory_Mcilroy_Driver.mp4",
+      "display": "Rory Mcilroy (DTL)",
+      "video": "https://www.dropbox.com/s/ud0ifoqcikmdobl/Rory_Mcilroy_DTL_NEW.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_DTL.png",
+      "new": "yes",
+      "size": "23.2 MB"
+    },
+    {
+      "name": "Rory_Mcilroy_Driver_DTL.mp4",
+      "display": "Rory Mcilroy Driver (DTL)",
+      "video": "https://www.dropbox.com/s/fcpwkehi8piwys8/Rory_Mcilroy_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Driver_DTL.png",
+      "new": "no",
+      "size": "32.4 MB"
+    },
+    {
+      "name": "Rory_Mcilroy_LongIron_DTL.mp4",
+      "display": "Rory Mcilroy Long-Iron (DTL)",
+      "video": "https://www.dropbox.com/s/r5n5626d7dnl6qp/Rory_Mcilroy_Long_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Long_Iron_DTL.png",
+      "new": "no",
+      "size": "44.4 MB"
+    },
+    {
+      "name": "Rory_Mcilroy_MidIron_DTL.mp4",
+      "display": "Rory Mcilroy Mid-Iron (DTL)",
+      "video": "https://www.dropbox.com/s/xftv2m86sjclz3u/Rory_McilRoy_Mid_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Mid_Iron_DTL.png",
+      "new": "no",
+      "size": "19 MB"
+    },
+    {
+      "name": "Ross_Fisher_DTL.mp4",
+      "display": "Ross Fisher (DTL)",
+      "video": "https://www.dropbox.com/s/rjamjlmhmdgt6j3/Ross_Fisher_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ross_Fisher_DTL.png",
+      "new": "no",
+      "size": "9.5 MB"
+    },
+    {
+      "name": "Sean_OHair_Driver_DTL.mp4",
+      "display": "Sean O'Hair Driver (DTL)",
+      "video": "https://www.dropbox.com/s/p5f8etnscn8a2r9/Sean_OHair_Driver_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Sean_OHaiR_Driver_DTL.png",
+      "new": "no",
+      "size": "40.3 MB"
+    },
+    {
+      "name": "Sean_OHair_MidIron_DTL.mp4",
+      "display": "Sean O'Hair Mid-Iron (DTL)",
+      "video": "https://www.dropbox.com/s/gz4n54mn019augv/Sean_OHair_MidIron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Sean_OHaiR_Mid_Iron_DTL.png",
+      "new": "no",
+      "size": "41.6 MB"
+    },
+    {
+      "name": "Sergio_Garcia_DTL.mp4",
+      "display": "Sergio Garcia (DTL)",
+      "video": "https://www.dropbox.com/s/g4jj3bb85x8946v/Sergio_Garcia_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Sergio_Garcia_DTL.png",
+      "new": "yes",
+      "size": "34 MB"
+    },
+    {
+      "name": "Tiger_Woods_Driver_DTL.mp4",
+      "display": "Tiger Woods shot in the dark (DTL)",
+      "video": "https://www.dropbox.com/s/szodf01uztc96r9/Tiger_Woods_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_SITD.png",
+      "new": "no",
+      "size": "22.2 MB"
+    },
+    {
+      "name": "Tiger_Woods_FACE_ON.mp4",
+      "display": "Tiger Woods (Face-On)",
+      "video": "https://www.dropbox.com/s/18o8s2zstxwi4a4/Tiger_Woods_Face_On.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_Face_On.png",
+      "new": "no",
+      "size": "26.7 MB"
+    },
+    {
+      "name": "Tiger_Woods_FO.mp4",
+      "display": "Tiger Woods FO",
+      "video": "https://www.dropbox.com/s/h0njs0zmstmyiob/Tiger_Woods_Face_On_New.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_Fo.png",
+      "new": "yes",
+      "size": "36.5 MB"
+    },
+    {
+      "name": "Tiger_Woods_Iron_DTL.mp4",
+      "display": "Tiger Woods Iron (DTL)",
+      "video": "https://www.dropbox.com/s/8t70m75mlxq95rb/Tiger_Woods_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_Iron_DTL.png",
+      "new": "no",
+      "size": "25.5 MB"
+    },
+    {
+      "name": "Troy_Merrit_DTL.mp4",
+      "display": "Troy Merrit (DTL)",
+      "video": "https://www.dropbox.com/s/7sft8pcorcetcrh/Troy_Merritt_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Troy_Merrit_DTL.png",
+      "new": "no",
+      "size": "32.7 MB"
+    },
+    {
+      "name": "Vijay_Sing_DTL.mp4",
+      "display": "Vijay Singh (DTL)",
+      "video": "https://www.dropbox.com/s/mkont16stbli55k/Vijay_Singh_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Vijay_Singh_DTL.png",
+      "new": "no",
+      "size": "24 MB"
+    }
+  ]
+}
