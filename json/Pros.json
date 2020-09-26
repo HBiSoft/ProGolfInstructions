@@ -1,6 +1,14 @@
 ﻿{
   "players": [
     {
+      "name": "Adam_Scott_DTL.mp4",
+      "display": "Adam Scott Iron (DTL)",
+      "video": "https://www.dropbox.com/s/ncj61ujisb5h7jw/Adam_Scott_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_DTL.png",
+      "new": "no",
+      "size": "26.5 MB"
+    },
+    {
       "name": "Adam_Scott_FACE_ON.mp4",
       "display": "Adam Scott Wedge (Face-On)",
       "video": "https://www.dropbox.com/s/q0lcb2zu67dmr4c/Adam_Scott_Wedge_Face_On.mp4?dl=1",
