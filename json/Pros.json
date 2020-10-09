@@ -1,8 +1,30 @@
 {
   "players": [
     {
-      "name": "Adam_Scott_Driver_Slow_Mo.mp4",
+      "name": "Bryson_DeChambeau_Driver_Slow_Mo.mp4",
+      "display": "Bryson DeChambeau Driver (Face-On)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21110&authkey=AKAbLqwWTkGd3gM",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Bryson_DeChambeau_Driver_Slow_Mo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "34.3 MB",
+      "id": "58"
+    },
+    {
+      "name": "Adam_Scott_Iron_Slow_Mo_FO.mp4",
       "display": "Adam Scott Driver (Face-On)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21109&authkey=AEszI1CCu4Uc-JY",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_Iron_Slow_Mo_FO.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "28.5 MB",
+      "id": "57"
+    },
+    {
+      "name": "Adam_Scott_Driver_Slow_Mo.mp4",
+      "display": "Adam Scott Driver (DTL)",
       "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21107&authkey=AH5fCBhBUQ5-xBA",
       "thumb": "https://user-images.githubusercontent.com/35602540/95489160-c896c300-0996-11eb-817c-f37c10035fd5.jpg",
       "new": "yes",
