@@ -1,13 +1,24 @@
 {
   "players": [
     {
+      "name": "Adam_Scott_Driver_Slow_Mo.mp4",
+      "display": "Adam Scott Driver (Face-On)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21107&authkey=AH5fCBhBUQ5-xBA",
+      "thumb": "https://user-images.githubusercontent.com/35602540/95489160-c896c300-0996-11eb-817c-f37c10035fd5.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "13.1 MB",
+      "id": "56"
+    },
+    {
       "name": "Adam_Scott_DTL.mp4",
       "display": "Adam Scott Iron (DTL)",
       "video": "https://www.dropbox.com/s/ncj61ujisb5h7jw/Adam_Scott_Iron_DTL.mp4?dl=1",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_DTL.png",
       "new": "no",
-      "isSlowMoVideo": "yes",
-      "isOldProGolfVideos": "no",
+      "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "26.5 MB",
       "id": "0"
     },
