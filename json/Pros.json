@@ -1,14 +1,15 @@
 {
   "players": [
     {
-      "name": "Adam_Scott_Driver_Slow_Mo.mp4",
-      "display": "Adam Scott Driver (Slow Motion)",
-      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21107&authkey=AH5fCBhBUQ5-xBA",
-      "thumb": "https://user-images.githubusercontent.com/35602540/95489160-c896c300-0996-11eb-817c-f37c10035fd5.jpg",
-      "new": "yes",
+      "name": "Adam_Scott_DTL.mp4",
+      "display": "Adam Scott Iron (DTL)",
+      "video": "https://www.dropbox.com/s/ncj61ujisb5h7jw/Adam_Scott_Iron_DTL.mp4?dl=1",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_DTL.png",
+      "new": "no",
       "isSlowMoVideo": "yes",
-      "size": "13.1 MB",
-      "id": "56"
+      "isOldProGolfVideos": "no",
+      "size": "26.5 MB",
+      "id": "0"
     },
     {
       "name": "Adam_Scott_FACE_ON.mp4",
@@ -17,6 +18,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_face_on.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "29.1 MB",
       "id": "1"
     },
@@ -27,6 +29,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Brooks_Koepka_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "30.7 MB",
       "id": "2"
     },
@@ -37,6 +40,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Daniel_Berger_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "40.8 MB",
       "id": "3"
     },
@@ -47,6 +51,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Daniel_Berger_Side_View.png",
       "new": "yes",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "31.8 MB",
       "id": "4"
     },
@@ -57,6 +62,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Dustin_Johnson_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "16.8 MB",
       "id": "5"
     },
@@ -67,6 +73,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Dustin_Johnson_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "37.2 MB",
       "id": "6"
     },
@@ -77,6 +84,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Dustin_Johnson_Fairwaywood_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "25.6 MB",
       "id": "7"
     },
@@ -87,6 +95,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ernie_Els_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "43.4 MB",
       "id": "8"
     },
@@ -97,6 +106,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Gary_Woodland_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "62.9 MB",
       "id": "9"
     },
@@ -107,6 +117,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Geoff_Ogilfy_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "39.8 MB",
       "id": "10"
     },
@@ -117,6 +128,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Greame_Mcdowell_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "15.5 MB",
       "id": "11"
     },
@@ -127,6 +139,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Hendrik_Stenson_Fairwaywood_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "15.1 MB",
       "id": "12"
     },
@@ -137,6 +150,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Hendrik_Stenson_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "17.4 MB",
       "id": "13"
     },
@@ -147,6 +161,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ian_Poulter_DTL_Face_on.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "34.5 MB",
       "id": "14"
     },
@@ -157,6 +172,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ian_Poulter_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "14.2 MB",
       "id": "15"
     },
@@ -167,6 +183,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Jason_Day_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "37.4 MB",
       "id": "16"
     },
@@ -177,6 +194,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Jason_Dufner_Face_On.png",
       "new": "yes",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "34.4 MB",
       "id": "17"
     },
@@ -187,6 +205,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Jessica_Korda_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "87.4 MB",
       "id": "18"
     },
@@ -197,6 +216,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justin_Rose_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "29.7 MB",
       "id": "19"
     },
@@ -207,6 +227,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justing_Thomas_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "41.5 MB",
       "id": "20"
     },
@@ -217,6 +238,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justin_Thomas_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "74.9 MB",
       "id": "21"
     },
@@ -227,6 +249,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Keegan_Bradley_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "14.1 MB",
       "id": "22"
     },
@@ -237,6 +260,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Kevin_Na_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "12.7 MB",
       "id": "23"
     },
@@ -247,6 +271,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lee_Westwood_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "20.2 MB",
       "id": "24"
     },
@@ -257,6 +282,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lexi_Thompson_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "35.2 MB",
       "id": "25"
     },
@@ -267,6 +293,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lexi_Thompson_HTI.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "129 MB",
       "id": "26"
     },
@@ -277,6 +304,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Louis_Oosthuizen_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "27 MB",
       "id": "27"
     },
@@ -287,6 +315,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Luke_Donald_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "59.5 MB",
       "id": "28"
     },
@@ -297,6 +326,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Luke_Donald_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "57.4 MB",
       "id": "29"
     },
@@ -307,6 +337,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Luke_Donald_Iron_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "50.3 MB",
       "id": "30"
     },
@@ -317,6 +348,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lydia_Ko_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "18.7 MB",
       "id": "31"
     },
@@ -327,6 +359,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Lydia_Ko_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "46.7 MB",
       "id": "32"
     },
@@ -337,6 +370,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Marc_Leishman_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "15.4 MB",
       "id": "33"
     },
@@ -347,6 +381,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Matt_Kuchar_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "35 MB",
       "id": "34"
     },
@@ -357,6 +392,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Michelle_Wie_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "43.9 MB",
       "id": "35"
     },
@@ -367,6 +403,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Michelle_Wie_Driver_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "24.3 MB",
       "id": "36"
     },
@@ -377,6 +414,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Michelle_Wie_Iron_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "27 MB",
       "id": "37"
     },
@@ -387,6 +425,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Paul_Casey_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "26.3 MB",
       "id": "38"
     },
@@ -397,6 +436,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Phil_Mickelson_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "15.9 MB",
       "id": "39"
     },
@@ -407,6 +447,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Phil_Mickelson_Wedge_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "43.2 MB",
       "id": "40"
     },
@@ -417,6 +458,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rickie_Fowler_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "27.3 MB",
       "id": "41"
     },
@@ -427,6 +469,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_DTL.png",
       "new": "yes",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "23.2 MB",
       "id": "42"
     },
@@ -437,6 +480,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Driver_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "32.4 MB",
       "id": "43"
     },
@@ -447,6 +491,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Long_Iron_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "44.4 MB",
       "id": "44"
     },
@@ -457,6 +502,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Mid_Iron_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "19 MB",
       "id": "45"
     },
@@ -467,6 +513,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Ross_Fisher_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "9.5 MB",
       "id": "46"
     },
@@ -477,6 +524,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Sean_OHaiR_Driver_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "40.3 MB",
       "id": "47"
     },
@@ -487,6 +535,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Sean_OHaiR_Mid_Iron_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "41.6 MB",
       "id": "48"
     },
@@ -497,6 +546,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Sergio_Garcia_DTL.png",
       "new": "yes",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "34 MB",
       "id": "49"
     },
@@ -507,6 +557,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_SITD.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "22.2 MB",
       "id": "50"
     },
@@ -517,6 +568,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_Face_On.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "26.7 MB",
       "id": "51"
     },
@@ -527,6 +579,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_Fo.png",
       "new": "yes",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "36.5 MB",
       "id": "52"
     },
@@ -537,6 +590,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tiger_Woods_Iron_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "25.5 MB",
       "id": "53"
     },
@@ -547,6 +601,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Troy_Merrit_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "32.7 MB",
       "id": "54"
     },
@@ -557,6 +612,7 @@
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Vijay_Singh_DTL.png",
       "new": "no",
       "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "24 MB",
       "id": "55"
     }
