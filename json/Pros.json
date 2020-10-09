@@ -1,6 +1,17 @@
 {
   "players": [
     {
+      "name": "Collin_Morikawa_Iron_Slow_Mo.mp4",
+      "display": "Collin Morikawa Iron (DTL)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21108&authkey=APnZM8i8i5c1gpA",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Collin_Morikawa_Iron_Slow_Mo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "11.2 MB",
+      "id": "59"
+    },
+    {
       "name": "Bryson_DeChambeau_Driver_Slow_Mo.mp4",
       "display": "Bryson DeChambeau Driver (Face-On)",
       "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21110&authkey=AKAbLqwWTkGd3gM",
@@ -13,7 +24,7 @@
     },
     {
       "name": "Adam_Scott_Iron_Slow_Mo_FO.mp4",
-      "display": "Adam Scott Driver (Face-On)",
+      "display": "Adam Scott Iron (Face-On)",
       "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21109&authkey=AEszI1CCu4Uc-JY",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_Iron_Slow_Mo_FO.jpg",
       "new": "yes",
@@ -39,8 +50,8 @@
       "video": "https://www.dropbox.com/s/ncj61ujisb5h7jw/Adam_Scott_Iron_DTL.mp4?dl=1",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_DTL.png",
       "new": "no",
-      "isSlowMoVideo": "no",
-      "isOldProGolfVideos": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
       "size": "26.5 MB",
       "id": "0"
     },
