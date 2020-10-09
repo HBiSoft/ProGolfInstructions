@@ -1,6 +1,72 @@
 {
   "players": [
     {
+      "name": "Tyrell_Hatton_DTL_Slowmo.mp4",
+      "display": "Tyrell Hatton (DTL)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21124&authkey=AMsypqtMM7vmOuw",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Tyrell_Hatton_DTL_Slowmo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "22.6 MB",
+      "id": "66"
+    },
+    {
+      "name": "Rory_Mcilroy_DTL_Drill_Slowmo.mp4",
+      "display": "Rory Mcilroy Drill (DTL)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21123&authkey=AM8k59NUSkzlS7w",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_DTL_Drill_Slowmo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "20.4 MB",
+      "id": "65"
+    },
+    {
+      "name": "Daniel_Berger_Side_Front_Slowmo.mp4",
+      "display": "Daniel Berger (Side Front)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21114&authkey=AILIR2Df1ouPg0s",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Daniel_Berger_Side_Front_Slowmo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "15.1 MB",
+      "id": "64"
+    },
+    {
+      "name": "Rory_Mcilroy_Iron_FO.mp4",
+      "display": "Rory Mcilroy Iron (Face On)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21121&authkey=AMkZM1GL-GnLLrY",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Iron_FO.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "no",
+      "size": "3.6 MB",
+      "id": "63"
+    },
+    {
+      "name": "Paul_Casey_Driver_DTL_Slow_Mo.mp4",
+      "display": "Paul Casey Driver (DTL)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21120&authkey=AALXr8cavKXpu3s",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Paul_Casey_Driver_DTL_Slow_Mo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "14.6 MB",
+      "id": "62"
+    },
+    {
+      "name": "Austin_Cook_Driver_DTL_Slow_Mo.mp4",
+      "display": "Austin Cook Driver (DTL)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21119&authkey=AGG1a0Wig0Q9-Wg",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Austin_Cook_Driver_DTL_Slow_Mo.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "10.6 MB",
+      "id": "61"
+    },
+    {
       "name": "Justin_Thomas_Slow_Mo_Iron.mp4",
       "display": "Justin Thomas Iron (DTL)",
       "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21116&authkey=AO0P1ozCu0mb9eI",
@@ -8,7 +74,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
-      "size": "6.3 MB",
+      "size": "23.1 MB",
       "id": "60"
     },
     {
