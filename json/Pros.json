@@ -61,8 +61,8 @@
       "video": "https://www.dropbox.com/s/ncj61ujisb5h7jw/Adam_Scott_Iron_DTL.mp4?dl=1",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Adam_Scott_DTL.png",
       "new": "no",
-      "isSlowMoVideo": "yes",
-      "isOldProGolfVideos": "no",
+      "isSlowMoVideo": "no",
+      "isOldProGolfVideos": "yes",
       "size": "26.5 MB",
       "id": "0"
     },
