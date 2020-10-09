@@ -1,6 +1,17 @@
 {
   "players": [
     {
+      "name": "Justin_Thomas_Slow_Mo_Iron.mp4",
+      "display": "Justin Thomas Iron (DTL)",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21116&authkey=AO0P1ozCu0mb9eI",
+      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justin_Thomas_Slow_Mo_Iron.jpg",
+      "new": "yes",
+      "isSlowMoVideo": "yes",
+      "isOldProGolfVideos": "no",
+      "size": "6.3 MB",
+      "id": "60"
+    },
+    {
       "name": "Collin_Morikawa_Iron_Slow_Mo.mp4",
       "display": "Collin Morikawa Iron (DTL)",
       "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21108&authkey=APnZM8i8i5c1gpA",
