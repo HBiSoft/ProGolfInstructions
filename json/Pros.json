@@ -8,6 +8,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "22.6 MB",
       "id": "66"
     },
@@ -19,28 +20,31 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "20.4 MB",
       "id": "65"
     },
     {
-      "name": "Daniel_Berger_Side_Front_Slowmo.mp4",
+      "name": "Daniel_Berger_Side_Front_slowmo.mp4",
       "display": "Daniel Berger (Side Front)",
-      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21114&authkey=AILIR2Df1ouPg0s",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21122&authkey=AGXSucASbEX-jnk",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Daniel_Berger_Side_Front_Slowmo.jpg",
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "15.1 MB",
       "id": "64"
     },
     {
       "name": "Rory_Mcilroy_Iron_FO.mp4",
       "display": "Rory Mcilroy Iron (Face On)",
-      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21121&authkey=AMkZM1GL-GnLLrY",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21121&authkey=AKauslvTaxy99EM",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Rory_Mcilroy_Iron_FO.jpg",
       "new": "yes",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "3.6 MB",
       "id": "63"
     },
@@ -52,6 +56,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "14.6 MB",
       "id": "62"
     },
@@ -63,17 +68,19 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "10.6 MB",
       "id": "61"
     },
     {
       "name": "Justin_Thomas_Slow_Mo_Iron.mp4",
       "display": "Justin Thomas Iron (DTL)",
-      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21118&authkey=AJknf2p7Y_KwEm4",
+      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21116&authkey=AO0P1ozCu0mb9eI",
       "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Justin_Thomas_Slow_Mo_Iron.jpg",
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "23.1 MB",
       "id": "60"
     },
@@ -85,6 +92,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "11.2 MB",
       "id": "59"
     },
@@ -96,6 +104,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "34.3 MB",
       "id": "58"
     },
@@ -107,6 +116,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "28.5 MB",
       "id": "57"
     },
@@ -118,6 +128,7 @@
       "new": "yes",
       "isSlowMoVideo": "yes",
       "isOldProGolfVideos": "no",
+      "orientation": "portrait",
       "size": "13.1 MB",
       "id": "56"
     },
@@ -129,6 +140,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "26.5 MB",
       "id": "0"
     },
@@ -140,6 +152,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "29.1 MB",
       "id": "1"
     },
@@ -151,6 +164,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "30.7 MB",
       "id": "2"
     },
@@ -162,6 +176,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "40.8 MB",
       "id": "3"
     },
@@ -173,6 +188,7 @@
       "new": "yes",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "31.8 MB",
       "id": "4"
     },
@@ -184,6 +200,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "16.8 MB",
       "id": "5"
     },
@@ -195,6 +212,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "37.2 MB",
       "id": "6"
     },
@@ -206,6 +224,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "25.6 MB",
       "id": "7"
     },
@@ -217,6 +236,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "43.4 MB",
       "id": "8"
     },
@@ -228,6 +248,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "62.9 MB",
       "id": "9"
     },
@@ -239,6 +260,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "39.8 MB",
       "id": "10"
     },
@@ -250,6 +272,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "15.5 MB",
       "id": "11"
     },
@@ -261,6 +284,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "15.1 MB",
       "id": "12"
     },
@@ -272,6 +296,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "17.4 MB",
       "id": "13"
     },
@@ -283,6 +308,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "34.5 MB",
       "id": "14"
     },
@@ -294,6 +320,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "14.2 MB",
       "id": "15"
     },
@@ -305,6 +332,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "37.4 MB",
       "id": "16"
     },
@@ -316,6 +344,7 @@
       "new": "yes",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "34.4 MB",
       "id": "17"
     },
@@ -327,6 +356,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "87.4 MB",
       "id": "18"
     },
@@ -338,6 +368,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "29.7 MB",
       "id": "19"
     },
@@ -349,6 +380,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "41.5 MB",
       "id": "20"
     },
@@ -360,6 +392,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "74.9 MB",
       "id": "21"
     },
@@ -371,6 +404,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "14.1 MB",
       "id": "22"
     },
@@ -382,6 +416,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "12.7 MB",
       "id": "23"
     },
@@ -393,6 +428,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "20.2 MB",
       "id": "24"
     },
@@ -404,6 +440,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "35.2 MB",
       "id": "25"
     },
@@ -415,6 +452,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "129 MB",
       "id": "26"
     },
@@ -426,6 +464,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "27 MB",
       "id": "27"
     },
@@ -437,6 +476,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "59.5 MB",
       "id": "28"
     },
@@ -448,6 +488,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "57.4 MB",
       "id": "29"
     },
@@ -459,6 +500,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "50.3 MB",
       "id": "30"
     },
@@ -470,6 +512,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "18.7 MB",
       "id": "31"
     },
@@ -481,6 +524,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "46.7 MB",
       "id": "32"
     },
@@ -492,6 +536,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "15.4 MB",
       "id": "33"
     },
@@ -503,6 +548,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "35 MB",
       "id": "34"
     },
@@ -514,6 +560,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "43.9 MB",
       "id": "35"
     },
@@ -525,6 +572,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "24.3 MB",
       "id": "36"
     },
@@ -536,6 +584,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "27 MB",
       "id": "37"
     },
@@ -547,6 +596,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "26.3 MB",
       "id": "38"
     },
@@ -558,6 +608,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "15.9 MB",
       "id": "39"
     },
@@ -569,6 +620,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "43.2 MB",
       "id": "40"
     },
@@ -580,6 +632,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "27.3 MB",
       "id": "41"
     },
@@ -591,6 +644,7 @@
       "new": "yes",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "23.2 MB",
       "id": "42"
     },
@@ -602,6 +656,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "32.4 MB",
       "id": "43"
     },
@@ -613,6 +668,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "44.4 MB",
       "id": "44"
     },
@@ -624,6 +680,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "19 MB",
       "id": "45"
     },
@@ -635,6 +692,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "9.5 MB",
       "id": "46"
     },
@@ -646,6 +704,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "40.3 MB",
       "id": "47"
     },
@@ -657,6 +716,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "41.6 MB",
       "id": "48"
     },
@@ -668,6 +728,7 @@
       "new": "yes",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "34 MB",
       "id": "49"
     },
@@ -679,6 +740,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "22.2 MB",
       "id": "50"
     },
@@ -690,6 +752,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "26.7 MB",
       "id": "51"
     },
@@ -701,6 +764,7 @@
       "new": "yes",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "36.5 MB",
       "id": "52"
     },
@@ -712,6 +776,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "25.5 MB",
       "id": "53"
     },
@@ -723,6 +788,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "32.7 MB",
       "id": "54"
     },
@@ -734,6 +800,7 @@
       "new": "no",
       "isSlowMoVideo": "no",
       "isOldProGolfVideos": "yes",
+      "orientation": "landscape",
       "size": "24 MB",
       "id": "55"
     }
