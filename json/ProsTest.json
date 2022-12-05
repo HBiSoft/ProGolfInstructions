@@ -1,17 +1,5 @@
 {
   "players": [
-      {
-      "name": "Xander_Schauffele_Iron_DTL.mp4",
-      "display": "Xander Schauffele Iron (DTL)",
-      "video": "https://onedrive.live.com/download?cid=2D99DDBD3A7342AC&resid=2D99DDBD3A7342AC%21182&authkey=AFRA08SDKLSzUNs",
-      "thumb": "https://raw.githubusercontent.com/HBiSoft/ProGolfInstructions/master/img/ProImages/Xander_Schauffele_Iron_DTL.jpg",
-      "new": "yes",
-      "isSlowMoVideo": "yes",
-      "isOldProGolfVideos": "no",
-      "orientation": "portrait",
-      "size": "12.1 MB",
-      "id": "88"
-    },
     {
       "name": "Will_Zalatoris_Iron_DTL.mp4",
       "display": "Will Zalatoris Iron (DTL)",
